@@ -5,9 +5,11 @@ Goal was to review weather patterns in Hawaii as we look to open a surf and ice 
 ##Results
 
 The following tables summarize June's temperature statistics over time.
+
 ![Screen Shot 2022-01-30 at 6 43 04 PM](https://user-images.githubusercontent.com/93485455/151724997-cc8effe1-9c56-481c-a2d0-37035eabb3fb.png)
 
 The following tables summarize December's temperature statistics over time.
+
 ![Screen Shot 2022-01-30 at 6 43 16 PM](https://user-images.githubusercontent.com/93485455/151725030-e9fc7770-b457-4244-b54e-bd3bc0e69579.png)
 
 These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
