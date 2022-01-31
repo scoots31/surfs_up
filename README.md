@@ -32,3 +32,4 @@ Here you can see the wetest instances of December through the periods of 2011 - 
 
 
 ## Summary
+With June and December temperature results being very similar and taking into account the precipitation historically our recommendation would be to acquire more data that is targeted more precise for the location of the shop. In addition more research should be done involving water conditions during those times as well. The current findings seem to be a positive but should not be viewed as a complete analysis that would sway a decision either way.
